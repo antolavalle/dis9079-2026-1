@@ -4,7 +4,7 @@ lunes 16 marzo 2026
 
 Grupo: Benjamin Alvarez, Anays Cornejo.
 
-# Arduino UNO R4 WiFi – Apuntes
+# Arduino UNO R4 – Apuntes
 
 ## Instalación
 Para usar Arduino, primero hay que descargar **Arduino IDE** y elegir la versión según el computador. Luego, dentro del programa, se debe instalar la placa **Arduino UNO R4** en **Boards Manager** y agregar bibliotecas como **MQTT** en **Library Manager**.  
