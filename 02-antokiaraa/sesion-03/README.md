@@ -14,3 +14,5 @@ en nuestro caso usaremos microcontroladores (Raspberry Pi también tiene)
 
 - ir a https://code.visualstudio.com/ descargar e instalar
 - instalar Raspberry, el verificado
+
+Mermaid para hacer los diagramas de flujo
