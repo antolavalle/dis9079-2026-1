@@ -44,3 +44,10 @@ RP2350 chip
 |nano|
 |pico|
 |fento|
+
+- `Beagleboard.org:` hizo una alianza con un arte en inglaterra.
+- `Bela.io:` es un be adaptado pero solo para audios.
+- `NIME.org:` donde hay papers (como entender hacer audios extraños, investigar)
+- `Meet Daisy:` es un microcontrolador para audios (un mega microcontrolador)
+- Electro-smith
+- `Chompi sampler:` hay un electro-smith de 20 lucas
