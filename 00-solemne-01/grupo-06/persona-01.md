@@ -4,7 +4,8 @@ investigaciones individuales
 
 # sobre adafruit i/o
 
-Lo primero que hice fue entrar a la página de Adafruit io https://io.adafruit.com/ y creé mi cuenta, eligiendo de foto de perfil un Diodo LED Rojo. Por otro lado, con la palabra "descargar" el Adafruit IO, asumí que era un programa/app como tal para descargar en el computador, despues de buscar y buscar en internet donde descargar Adafuit IO me di cuenta de que eran descargas dentro de Arduino IDE, después me aventuré dentro de la página de Adafruit IO para encontrar las instrucciones de descarga y no las podía encontrar, me metía en todas las pestañas y secciones de la páginas y no logré encontrarlas, hasta que consulté en mi grupo si lograron descargarlo y mi compañero Nicolás me dijo que era al final de la página en la sección "Quick Guides" o "Guías Rápidas" y en el despliegue de guías, que hay varias, se selecciona la correspondiente a Arduino, recién ahí pude gestionar exitosamente las descargas, gracias @nicovaldesgreve!
+Lo primero que hice fue entrar a la página de Adafruit io https://io.adafruit.com/ y creé mi cuenta, eligiendo de foto de perfil un Diodo LED Rojo. Por otro lado, con la palabra "descargar" el Adafruit IO, asumí que era un programa/app como tal para descargar en el computador, despues de buscar y buscar en internet donde descargar Adafuit IO me di cuenta de que eran descargas dentro de Arduino IDE, después me aventuré dentro de la página de Adafruit IO para encontrar las instrucciones de descarga y no las podía encontrar , me metía en todas las pestañas y secciones de la páginas y no logré encontrarlas, hasta que consulté en mi grupo si lograron descargarlo y mi compañero Nicolás me dijo que era al final de la página en la sección "Quick Guides" o "Guías Rápidas" y en el despliegue de guías, que hay varias, se selecciona la correspondiente a Arduino, recién ahí pude gestionar exitosamente las descargas, gracias @nicovaldesgreve! (cabe destacar que no me di cuenta que dejaron un link para facilitar la instalación, agradecida de todas formas :)
+
 
 ## Cuenta creada en Adafruit IO
 
@@ -41,11 +42,13 @@ Saqué el pantallazo antes de que se descargara por completo pero si se instaló
 En general me llamó la atención que las descargas fueran tan rápidas, pensé que tendría que dejar el computador por horas!!, no tuve dificultades durente los procesos de descarga, sólo al inicio, como comenté anteriormente, me intriga saber cómo funcionan estos sistemas, personalmente todo esto es nuevo para mí, considero un desafío personal el haber tomado este ramo, espero poder aprender mucho sobre ésta area a lo largo del semestre!!
 
 
-## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
+## Sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
 
 # Producto Elegido -> ***Raspberry Pi Pico 2 W***
 
 <img width="1000" height="1000" alt="pi-pico-2W" src="https://github.com/user-attachments/assets/c656b73e-61c7-4020-a148-aea33a9df131" />
+
+*Créditos Imagen: https://mcielectronics.cl/shop/product/74358/?srsltid=AfmBOorPc8vYPX7ZT3WFb0O20SOzW3Kpq1OABx9OQNK9RxAZsK4xQ8bk*
 
 El producto que elegí investigar es la Raspberry Pi Pico 2 W, una placa de desarrollo pequeña que funciona como microcontrolador. Esta permite crear proyectos electrónicos interactivos conectando sensores, luces y otros componentes.
 
@@ -68,13 +71,28 @@ Elegí este producto porque me llamó la atención desde que la vi en clases, es
 También me parece interesante que, a pesar de ser una placa pequeña, tiene muchas capacidades, como conectarse a WiFi y ejecutar código en Python como dijo Aarón en clases. Esto la hace fácil de usar pero a la vez muy potente para crear proyectos interactivos.
 
 <img width="1620" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d808ed7-975e-4f84-914b-6d753789ed4d" />
-me gusta el logo de frambuesa, es muy cute <3
+
+*Créditos Imagen: https://raspberrypi.cl/products/raspberry-pi-pico-2-w-con-headers?variant=47160238244018*
+
+Me gusta el logo de frambuesa, es muy cute <3
 
 ## Relación con el proyecto
 
 En nuestro proyecto, la Raspberry Pi Pico 2 W cumple el rol de receptor, ya que recibe los datos enviados desde el Arduino a través de Adafruit IO. Luego, utiliza esta información para controlar el brillo de un LED.
 
 Esto me ayudó a entender cómo distintos dispositivos pueden comunicarse entre sí y cómo algo físico puede responder a datos que vienen desde la nube.
+
+## Fuentes de Información
+
+https://mcielectronics.cl/shop/product/74358/?srsltid=AfmBOorPc8vYPX7ZT3WFb0O20SOzW3Kpq1OABx9OQNK9RxAZsK4xQ8bk
+
+https://www.adafruit.com/product/6315?srsltid=AfmBOooCI-VvwXbqNj1umTWqqU9FtEmD9xpv22hs1DFe2ul9eDtabYbt
+
+https://raspberrypi.cl/products/raspberry-pi-pico-2-w-con-headers?variant=47160238244018
+
+https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-008302-DS-2-pico-2-product-brief.pdf?disposition=inline
+
+https://cursos.mcielectronics.cl/2025/08/12/introduccion-a-raspberry-pi-pico-2-y-pico-2-w/
 
 
 
