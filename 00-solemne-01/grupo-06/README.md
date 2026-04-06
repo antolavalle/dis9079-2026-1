@@ -11,6 +11,8 @@
 
 ![titulo](./imagenes/primerapruebapotenciometro.gif)
 
+![titulo](./imagenes/pruebabrilloledadafruitio.png)
+
 
 ## Materiales usados en Solemne-01
 
