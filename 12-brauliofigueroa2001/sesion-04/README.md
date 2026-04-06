@@ -191,9 +191,24 @@ actualización 6 de abril en la mañana con aarón
 
 - por obvios motivos no colocaré mis credenciales lol
 
-- al colocar correctamente las credenciales y el nombre y la clave del wifi, enviamos el código y abrimos nuestra cuenta de adafruit, sucedió lo siguiente:
+- al colocar correctamente las credenciales y el nombre y la clave del wifi
 
-- 
+- también tuve que actualizar el firmware, ya que, al colocar las credenciales bien, el código funcionó entonces ahora daba el error de actualizar firmware, que era lo que precisamente tenía que suceder, actualizamos la placa y pasó esto:
+
+![fallologro](./imagenes/falloylologro.JPG)
+
+- el código se conectó y poco a poco comenzaría a enviar
+
+![enviando](./imagenes/enviandoAdafruit.JPG)
+
+- ahora sí comenzó a enviar, ahora debíamos abrir nuestra página para ver estos datos que se estaban enviando
+
+![servidorAdafruit](./imagenes/servidorAdafruit.JPG)
+
+![servidorAdafruit](./imagenes/servidorAdafruit2.JPG)
+
+- esto muestra en vivo los datos que están llegando desde arduino hacia el servidor en adafruit, lo logramos amigos
+
 
 
 
