@@ -7,11 +7,12 @@ Lunes 13 Abril 2026
 ## Integrantes "Sonoridad":
 
 * [Felipe Caurapan](https://github.com/felipecaurapan): 
-* [Camila Parada](https://github.com/Camila-Parada): Código, bill of materials
-* [Vania Paredes](https://github.com/paredesvania): Código, Circuito, redacción de texto
+* [Camila Parada](https://github.com/Camila-Parada): Código, Bill of Materials, Redacción de texto
+* [Vania Paredes](https://github.com/paredesvania): Código, Circuito, Redacción de texto, Registro
 
 
 ## Descripción del proyecto
+
 
 
 ## Bill of materials
@@ -27,7 +28,7 @@ Lunes 13 Abril 2026
 | Resistencia 1k Ohm 1/2 watts | Componente | Pack 5 |  $500 | <https://triacs.cl/accesorios/1101-resistencia-1k-ohm-12w-5-unid-.html> |
 
 
-## código usado con Adafruit IO
+## Código usado con Adafruit IO
 
 ### código para enviar
 
