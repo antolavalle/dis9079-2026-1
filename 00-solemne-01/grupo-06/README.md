@@ -10,7 +10,7 @@
 
 ## Descripción del proyecto
 
-La idea principal de nuestro proyecto es poder enviar información desde una placa Arduino R4 WiFi a otra de manera inalámbrica utilizando WiFi, por lo cual haremos que una placa envíe la orden de encender y apagar un LED que está conectado a la otra placa mientras usamos a Adafruit IO como intermediario.
+La idea principal de nuestro proyecto es poder enviar información desde una placa Arduino R4 WiFi a otra de manera inalámbrica utilizando WiFi, por lo cual haremos que una placa envíe la orden de encender y apagar un LED que está conectado a la otra placa mediante una protoboard mientras usamos a Adafruit IO como intermediario.
 
 En este caso, los componentes que utilizamos son:
 
