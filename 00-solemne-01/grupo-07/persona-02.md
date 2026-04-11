@@ -15,6 +15,12 @@ Pude crear una cuenta súper fácil m, solo había que seguir los pasos de la p�
 
 https://mkelectronica.com/aprende-a-utilizar-la-plataforma-adafruit-io-para-tus-dispositivos-iot-parte-1/
 
+https://io.adafruit.com/
+
+https://learn.adafruit.com/adafruit-io-basics-digital-input/getting-started-with-adafruit-io
+
+
+
 ## Conceptos importantes
 
 * ### Feed
@@ -28,6 +34,12 @@ https://mkelectronica.com/aprende-a-utilizar-la-plataforma-adafruit-io-para-tus-
 * ### Blockly
 
   * Herramienta que permite crear interacciones entre los dispositivos y la plataforma.
+
+* ### Esp32
+  
+  * Microcontrolador IoT de bajo costo con Wifi y Bluetooth.
+me salió en varios vídeos sobre Adafruit IO y Arduinos.
+   https://youtu.be/sNO6fQrFGsI?si=yEYygeepY-5dI7YO
 
 
 ### sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
