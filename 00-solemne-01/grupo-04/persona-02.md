@@ -56,5 +56,5 @@ que surgen de la intersección entre la tecnología avanzada y el arte contempor
 
 
 https://aiartists.org/refik-anadol
-
+https://refikanadol.com/refik-anadol/
 
