@@ -42,3 +42,20 @@ Su trabajo combina dibujo tradicional, inteligencia artificial y robótica para 
 A nivel conceptual, su trabajo aborda temas como la autoría, el control y la colaboración entre humanos y sistemas tecnológicos. Plantea preguntas sobre quién crea realmente la obra y hasta qué punto la inteligencia artificial puede considerarse creativa. Además, investiga cómo los gestos humanos pueden ser traducidos a lenguaje digital, generando una fusión entre lo físico y lo virtual.
 
 ![artista](./imagenes/aa_Sougwen_Chung.png)
+
+## Bibliografia:
+
+https://learn.adafruit.com/welcome-to-adafruit-io/overview 
+
+https://arduino.cl/que-es-arduino/?srsltid=AfmBOor0ej-rGLhlM8f_la78G_qm3S8-8UQ18gRQRC8L37uKfZ8_er8E 
+
+https://learn.adafruit.com/adafruit-io-basics-dashboards 
+
+https://arduino.cl/producto/arduino-uno-r4-wifi/?srsltid=AfmBOopoBEQvXbbSHon7xpm72ttyMdjYAgu8pn7mpKxAITS9lm2aqAUZ 
+
+https://docs.arduino.cc/tutorials/uno-r4-wifi/r4-wifi-getting-started/ 
+
+https://sougwen.com/ 
+
+https://www.theartnewspaper.com/2026/03/26/the-human-machine-creative-entanglement-artist-sougwen-chung-on-her-technology-based-practice
+
