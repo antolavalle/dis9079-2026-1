@@ -34,25 +34,25 @@ Permite hacer proyectos interactivos sin instalar programas.
 
 ### Servidor
 
-Sistema que conecta dispositivos y permite compartir información entre ellos.
+- Sistema que conecta dispositivos y permite compartir información entre ellos.
 
 ### Protocolos de comunicación
 
-Reglas que permiten que distintos sistemas se entiendan y envíen datos correctamente.
+- Reglas que permiten que distintos sistemas se entiendan y envíen datos correctamente.
 
 ### Protocolos vistos en clase
 
 ### MQTT
 
-Protocolo liviano de mensajería basado en el sistema de “publicar y suscribirse”. Se usa mucho en IoT.
+- Protocolo liviano de mensajería basado en el sistema de “publicar y suscribirse”. Se usa mucho en IoT.
 
 ### HTTPS
 
-Protocolo seguro de la web basado en HTTP con cifrado TLS. Sirve para enviar datos de forma protegida por internet.
+- Protocolo seguro de la web basado en HTTP con cifrado TLS. Sirve para enviar datos de forma protegida por internet.
 
 ### OSC
 
-Protocolo de comunicación usado en música, arte interactivo y sistemas multimedia en tiempo real. Es rápido y de baja latencia.
+- Protocolo de comunicación usado en música, arte interactivo y sistemas multimedia en tiempo real. Es rápido y de baja latencia.
 
 ### Tecnologías relacionadas
 
