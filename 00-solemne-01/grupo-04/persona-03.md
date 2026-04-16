@@ -43,24 +43,50 @@ Rafael Lozano Hemmer
 
 Artista mexicano-canadiense, nacido en Ciudad de Mexico en 1967, Licenciado en Química Física por la universidad Concordia de Montreal, Canadá. Reconocido por sus instalaciones interactivas a gran escala, combinan el arte, ciencia y tecnología. También considerado como uno de los artistas electrónicos más relevantes de nuestro tiempo, desarrolla instalaciones interactivas que son el encuentro entre la arquitectura y el arte performativo.
 
+La interacción hace de su trabajo algo efímero, pero constante. Su obra "muere" cunado el cuerpo deja de tener contacto directo con el dispositivo y re aparece cuando un nuevo cuerpo lo activa. 
 
-## Obra
+Sus instalaciones interactivas a gran escala han estado presentes en paises como Mexico, Estados Unidos, Emiratos Árabes Unidos, Japón, Canadá, Australia, entre muchos otros. 
+
+## Obras
 
 ### Jardin inconcluso 
 
-Una exposición nocturna de instalaciones audiovisuales que integra un recorrido sensorial único. donde se activa con la presencia del público. 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3d567493-3109-466d-b61a-ca372ab974e9" />
 
 Rafael Lozano-Hemmer: *Jardín Inconcluso*, Museo de Arte Moderno, Mexico City, México, February 10th - May 16th, 2026.
 
-https://feverup.com/m/553366?srsltid=AfmBOoo_EL_8m2ElS-fS_HYlBdkMLtscYlTWOQVQnfV11RTP6Q4ke0VO
+Una exposición nocturna de instalaciones audiovisuales que integra un recorrido sensorial único, donde se activa con la presencia del público. La muestra hace presente fenómenos normalmente invisibles como la radiación cósmica, modula intensidad de la luz; la energía térmica se dispersa; miles de focos palpitan al ritmo de latidos registrados; mensajes de voz recorren los senderos como patrones de luz. 
+
+### Atmospheric Memory 
+
+Exhibición que presenta obajetos históricos combinados con tecnologías de vanguardia, desde la IA, robótica, dinamica de fluidos hasta nanotecnología, cartografía e impresión 3D. 
+
+En la exhibición se podia tocar la primera burbuja de dialogo impresa en 3D del mundo, viendo como tu voz viaja por un tanque de ondas, caminar sobre nubes de textos escritas en el aire e interactuar con entornos virtuales en una camara de proyección de 360 grados. 
+
+¿Qué trata de decirnos la atmósfera?
+
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/bfe5cc85-07ce-4b35-ae4e-be7ac81b1780" />
+
+### Sintonizador fronterizo 
+
+Es una instalación de arte público que conecta ciudad Juárez con El paso, Texas a través de 3 estaciones interactivas en cada lado que controlan reflectores robóticos con una pequeña perilla. Cuando las luces de dos estaciones se entrecruzan, automáticamente se encienden micrófonos y bocinas para permitir que los participantes puedan hablarse entre sí, generando conversaciones transfronterizas. 
+
+<img width="965" height="624" alt="image" src="https://github.com/user-attachments/assets/750dbb75-1e17-4c52-93da-2574c73d890c" />
+
 
 ## Bibliografía
 + Adafruit. (2024) *Welcome to Adafruit IO*.  What can Adafruit IO do for me?.   https://learn.adafruit.com/welcome-to-adafruit-io/overview
 
 + Adafruit. (2015) *Adafruit IO Basics: Feeds*. https://learn.adafruit.com/adafruit-io-basics-feeds
 
++ Atelier Lozano-Hemmer (2026) *Biography and CV* https://www.lozano-hemmer.com/bio.php
+
++ Border Tuner (2019) *Sintetizador Fronterizo* https://www.bordertuner.net/es/home
+
++ Fever. (2026) *Rafael LOzano-Hammer: Jardín inconcluso* https://feverup.com/m/553366?srsltid=AfmBOoo_EL_8m2ElS-fS_HYlBdkMLtscYlTWOQVQnfV11RTP6Q4ke0VO
+
 + Lucas Martín Treser. (2024, Oct, 16) *Adafruit IO y ESP32*. https://www.youtube.com/watch?v=EewQSa6IiVc&t=3s
 
++ Max estrella. (S.F) *Rafael Lozano-Hemmer* https://maxestrella.com/es/artist/rafael-lozano-hemmer/
 
-https://www.lozano-hemmer.com/bio.php
-
++ Power house. (2023) *Atmospheric Memory* https://powerhouse.com.au/program/atmospheric-memory
