@@ -33,7 +33,7 @@ imágen de: <https://cursos.mcielectronics.cl/2025/08/12/introduccion-a-raspberr
 
 ### Pasos a seguir
 
-1. Primero descargamos en (Circuit Python)<https://circuitpython.org/board/raspberry_pi_pico2_w/>
+1. Primero descargamos en (Circuit Python) <https://circuitpython.org/board/raspberry_pi_pico2_w/>
 2. Luego, conectamos la raspberry pi en el computador
 3. Abrimos las carpetas de la raspberry pi pico2 w en el finder
 4. Pasamos el archivo que descargamos, a la carperta rasberry pi
