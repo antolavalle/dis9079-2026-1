@@ -19,4 +19,8 @@ descargando estas bibliotecas:
 - adafruit_connection_manager.mpy
 - adafruit_ticks.mpy
 
+![raspberry pi](./imagenes/imagen1.jpg)
+![raspberry pi](./imagenes/imagen2.png)
+![raspberry pi](./imagenes/imagen3.png)
+
 nos vemos a la vuelta del receso
