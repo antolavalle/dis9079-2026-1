@@ -2,7 +2,7 @@
 
 lunes 27 abril 2026
 
-nos vemos a la vuelta del receso
+Nos vemos a la vuelta del receso.
 
 <img src="./imagenes/Screen-Shot-2022-10-16-at-4.33.18-PM.webp" alt="install" width="500">
 
@@ -20,7 +20,7 @@ En nuestro caso vamos a utilizar CircuitPhyton en la Raspberry Pi Pico 2W, por l
 
 <img src="./imagenes/2_04-27.png" alt="install" width="500">
 
-Luego utilizaremos Putty que se conecta a la placa vía puerto serial (COM) y te da acceso al REPL
+Luego utilizaremos Putty que se conecta a la placa vía puerto serial (COM) y te da acceso al REPL.
 
 <img src="./imagenes/1_04-27.png" alt="install" width="500">
 
@@ -36,8 +36,8 @@ v_cc: "Voltaje de alimentación positivo".
 ---
 
 ### Potenciómetro
-Resistencia ajustable a través de una perilla, se conecta a un pin analógico
-el potenciómetro necesita 3 cables
+Resistencia ajustable a través de una perilla, se conecta a un pin analógico.
+El potenciómetro necesita 3 cables.
 
 Raspberry pi pico 2w pinout. 
 
