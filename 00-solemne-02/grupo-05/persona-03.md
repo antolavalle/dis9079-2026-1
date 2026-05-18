@@ -4,6 +4,8 @@ Nicolás Elías Valdés Greve / [nicolasvaldesgreve](<https://github.com/nicolas
 
 ## Sensor LDR
 
+![Imagen de cómo se ve un LDR, imagen rescatada de tecnosalva.com](./imagenes/ldr.png)
+
 El sensor LDR (Light Dependent Resistor) o también llamado fotorresistencia, como lo dice su nombre, es un resistor el cual dependiendo de la intensidad de la luz va a ir cambiando su valor de resistencia, todo ésto es gracias a que está fabricado con un material semiconductor de sulfuro de cadmio (CdS), el cual le permite reaccionar a la luz visible ya que cuando caen los fotones sobre el LDR los electrones de la banda de valencia del material semiconductor son trasladados a la banda de conducción. Los cambios en el valor de su resistencia varían de la siguiente manera:
 
 + Mientras más iluminación haya, la resistencia disminuye.
@@ -11,20 +13,21 @@ El sensor LDR (Light Dependent Resistor) o también llamado fotorresistencia, co
 
 Dentro de un esquemático el símbolo del LDR es el mismo que el de una resistencia, pero éste tiene dos flechas que caen sobre él para demostrar el cómo entra la luz.
 
-![Simbología de LDR en esquemáticos](./imagenes/simbolo-ldr.png)
+![Simbología de LDR en esquemáticos, imagen rescatada de tecnosalva.com](./imagenes/simbolo-ldr.png)
 
+Como ya mencioné anteriormente, el funcionamiento de los LDR se basa en el efecto fotoeléctrico, por lo que las células también pueden reaccionar a una amplia gama de frecuencias incluyendo infrarrojo, luz visible y luz ultravioleta. Algo importante sobre la variación del valor de resistencia es que ésta tiene cierto retardo siendo éste diferente si se pasa de oscuro a iluminado o de iluminado a oscuro, lo cual limita a no usar los LDR en ocasiones en donde la señal luminosa varía con rapidez ya que ésto puede causar problemas.
 
+En el caso de nosotros, ya se nos introdujo el LDR en el curso pero hemos trabajado más con éste en el taller de diseño de máquinas electrónicas, en donde se puede apreciar el efecto visual que tiene éste sensor en un LED.
 
-uso del sensor
-filtrado de información
-visualización de datos
-problemas comunes
+![LDR con LED y capacitor de 10uf](./imagenes/fotorresistor.gif)
+
+Para poder conectar este sensor a una placa Arduino UNO R4 WiFi, se tiene que hacer las mismas conexiones que hacemos cuando conectamos un potenciómetro a éste, solo que en la fotorresistencia hay que poner el cable que va a los ``5V`` en un pin de éste, y en el otro poner el cable que va al ``9~`` al igual que una patita de resistencia mientras que en la otra se va el pin que va al ``GND`` de la placa misma.
 
 ### Fuentes Sensor
 
 + <https://www.mechatronicstore.cl/sensor-de-deteccion-de-luz-fotosensible-digital/?srsltid=AfmBOooyaVFpS7vgsjQ7xQU6gjCxzt0Uxd_LYXZL8HfRX2tP1_rhH5VT>
 + <https://tecnosalva.com/que-es-y-como-funciona-una-ldr/>
-+ 
++ <https://angelmicelti.github.io/4ESO/CYR/fotorresistencia_ldr.html>
 
 ## Sonitus Lucis - Arturo Yelo
 
